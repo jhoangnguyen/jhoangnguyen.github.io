@@ -1,5 +1,5 @@
 /* ===================================================================
- * Tyndale 1.0.0 - Main JS
+ * Main JS
  *
  * ------------------------------------------------------------------- */
 
@@ -76,7 +76,7 @@
     * ---------------------------------------------------- */ 
     const ssMobileMenu = function() {
 
-        const toggleButton = document.querySelector('.s-header__menu-toggle');
+        const toggleButton = document.querySelector('.s-header__menu-toggle');                  // Check to make sure that the mobile button works on next deployment
         const mainNavWrap = document.querySelector('.s-header__nav-wrap');
         const siteBody = document.querySelector('body');
 
