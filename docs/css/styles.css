@@ -3973,7 +3973,7 @@ img.u-pull-left {
     margin-top    : var(--vspace-1_25);
     padding-right : 1vw;
     position      : relative;
-    margin-bottom : var(--vspace-1_25);
+    margin-bottom : 288px;
 }
 
 .timeline::before {
